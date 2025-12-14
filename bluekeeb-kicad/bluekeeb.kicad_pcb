@@ -491,7 +491,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "01bcea90-e927-4778-bb69-d1944a880e2e")
-		(at 198.5 93.5 90)
+		(at 96.10625 55.4 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D37"
@@ -800,7 +800,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "046e73dc-6b6d-4a4f-8e97-cbca9b918f35")
-		(at 256 103 90)
+		(at 160.75 67.28125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D14"
@@ -1109,7 +1109,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "057d3744-c69d-4f74-903d-5a159f4bb576")
-		(at 160.5 66.5 90)
+		(at 96.20625 111.74375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D43"
@@ -1418,7 +1418,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "08ca984f-c5c2-4857-bec4-5be6e45c0b10")
-		(at 77.55 60 90)
+		(at 58.5 45.7125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D3"
@@ -1830,7 +1830,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "0db883e2-dddb-4886-853a-1fc797b84f2e")
-		(at 160.5 86.5 90)
+		(at 77.15625 41.25625 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D5"
@@ -2139,7 +2139,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "10d978ea-30c7-4471-a871-27d0ca1f614c")
-		(at 223.8375 83.34375)
+		(at 83.34375 121.44375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW35"
 			(at 5 7.4 180)
@@ -2912,7 +2912,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "117d57aa-df16-4622-89d5-93aaf99641f2")
-		(at 115.55 81.65 90)
+		(at 236.99375 64.98125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D46"
@@ -3221,7 +3221,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "11b7727f-d346-4709-b9a7-f1499253d10b")
-		(at 96.05 112 90)
+		(at 236.54375 102.475 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D50"
@@ -3530,7 +3530,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "124e9d1a-7ab7-4877-ad8e-12dc83361a6d")
-		(at 204.7875 40.48125)
+		(at 64.29375 69.05625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW21"
 			(at 5 7.4 180)
@@ -4594,7 +4594,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "19087219-1ba2-4639-b002-6245f9d5f070")
-		(at 121.44375 104.775)
+		(at 261.9375 107.15625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW58"
 			(at 5 7.4 180)
@@ -5367,7 +5367,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "1919acc2-4974-49b4-b8cb-47d2c790ac40")
-		(at 77.55 79.5 90)
+		(at 179.94375 100.93125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D26"
@@ -5676,7 +5676,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "1b8de4bd-8443-4b0f-a7ea-82cc6601278f")
-		(at 64.29375 69.05625)
+		(at 261.9375 69.05625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW54"
 			(at 5 7.4 180)
@@ -6449,7 +6449,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "1c7dbee1-afeb-438e-976b-23e0a26edd96")
-		(at 140.49375 109.5375)
+		(at 102.39375 40.48125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW7"
 			(at 5 7.4 180)
@@ -8059,7 +8059,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "258dd01b-4e7d-4246-96d0-763a7f7b43de")
-		(at 218 79 90)
+		(at 77.50625 117.1 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D35"
@@ -8368,7 +8368,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "28c99179-1d3b-48a9-9f9a-5cafa285abaa")
-		(at 166.6875 109.5375)
+		(at 45.24375 107.15625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW17"
 			(at 5 7.4 180)
@@ -9141,7 +9141,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "2bdeceac-8f05-420b-ac62-b19dcef9ef86")
-		(at 121.44375 66.675)
+		(at 64.29375 88.10625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW23"
 			(at 5 7.4 180)
@@ -9914,7 +9914,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "2f2de3eb-c165-4194-a04d-293a8ecd7c08")
-		(at 96.55 93.65 90)
+		(at 237.04375 84.125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D48"
@@ -10326,7 +10326,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "33e23173-b656-4e41-a067-8116c77965eb")
-		(at 102.39375 40.48125)
+		(at 204.7875 78.58125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW32"
 			(at 5 7.4 180)
@@ -11099,7 +11099,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "35aecde6-b3fb-42ab-ba36-cfd0663be349")
-		(at 83.34375 102.39375)
+		(at 223.8375 64.29375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW38"
 			(at 5 7.4 180)
@@ -11872,7 +11872,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "35f89ff5-a5a7-4b0e-9a3c-67b060ceb03d")
-		(at 198.5 113 90)
+		(at 96.10625 74.9 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D39"
@@ -12181,7 +12181,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "36b6ba08-2e10-46d3-9a28-5c98d415192f")
-		(at 83.34375 83.34375)
+		(at 185.7375 104.775)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW26"
 			(at 5 7.4 180)
@@ -12954,7 +12954,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "37dcc932-6205-42de-9580-3b2571fcc956")
-		(at 140.49375 90.4875)
+		(at 261.9375 88.10625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW56"
 			(at 5 7.4 180)
@@ -14018,7 +14018,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "3a4b69f2-a64c-42ea-a9b1-0e8a08f5d144")
-		(at 134.55 105.5 90)
+		(at 96.45 36.44375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D7"
@@ -14327,7 +14327,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "3e0ff58c-c39b-4bd1-a708-a6efb2ea38ed")
-		(at 217.5 60.5 90)
+		(at 160.35 86.69375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D16"
@@ -14636,7 +14636,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "418d10a2-af62-4450-84d8-a6f7a3b934d3")
-		(at 77.55 98.15 90)
+		(at 218.04375 60.05 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D38"
@@ -14945,7 +14945,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "43c7bfef-2de9-44cc-864f-7c79deaa24f4")
-		(at 161 105.5 90)
+		(at 39.55625 103.11875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D17"
@@ -15254,7 +15254,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "494fc61c-1913-4015-9321-c3192269cf1e")
-		(at 261.9375 88.10625)
+		(at 185.7375 85.725)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW24"
 			(at 5 7.4 180)
@@ -16336,7 +16336,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "49bbc916-2069-4fb1-8a4c-11df07c1ea88")
-		(at 204.7875 78.58125)
+		(at 64.29375 107.15625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW25"
 			(at 5 7.4 180)
@@ -17109,7 +17109,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "4a870805-3ba1-4224-b341-b39b44d9d384")
-		(at 45.24375 50.00625)
+		(at 166.6875 52.3875)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW2"
 			(at 5 7.4 180)
@@ -18191,7 +18191,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "4d08ffaa-f354-4358-8700-9c569d587352")
-		(at 64.29375 88.10625)
+		(at 185.7375 123.825)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW28"
 			(at 5 7.4 180)
@@ -18964,7 +18964,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "4fe6c035-818c-4684-b218-3d23942b536a")
-		(at 261.9375 107.15625)
+		(at 166.6875 71.4375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW14"
 			(at 5 7.4 180)
@@ -20028,7 +20028,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "5491e772-a00c-4667-a7ad-9de6610958af")
-		(at 204.7875 97.63125)
+		(at 102.39375 59.53125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW37"
 			(at 5 7.4 180)
@@ -21092,7 +21092,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "563a32fe-427a-4962-b1b0-d7238b94485e")
-		(at 102.39375 97.63125)
+		(at 242.8875 88.10625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW48"
 			(at 5 7.4 180)
@@ -21865,7 +21865,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "56c1db50-b148-4ef8-87bf-df6e2d644d20")
-		(at 134.5 67 90)
+		(at 77.35 97.95625 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D33"
@@ -22483,7 +22483,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "573f43f6-a954-4152-87ff-c06e96a73209")
-		(at 179.5 119.5 90)
+		(at 77.10625 59.96875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D29"
@@ -22792,7 +22792,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "5b4ce047-1ca5-4647-9489-34264a70c98f")
-		(at 242.8875 126.20625)
+		(at 140.49375 128.5875)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW59"
 			(at 5 7.4 180)
@@ -23565,7 +23565,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "5c5d4bd6-53cc-46d1-afd9-57392a6e37a2")
-		(at 77.55 41 90)
+		(at 179.94375 62.43125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D22"
@@ -23874,7 +23874,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "5f6c0610-e6cd-43ac-ab94-5aeffc96e1ae")
-		(at 166.6875 71.4375)
+		(at 102.39375 116.68125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW43"
 			(at 5 7.4 180)
@@ -24647,7 +24647,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "61e96a71-cb0d-48b9-8d75-a2431410fdf8")
-		(at 96.55 36 90)
+		(at 198.94375 74.1 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D32"
@@ -24956,7 +24956,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "62f23714-62ef-4ad5-bd98-f27b42b04c8a")
-		(at 166.6875 52.3875)
+		(at 45.24375 50.00625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW1"
 			(at 5 7.4 180)
@@ -25729,7 +25729,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "638a81cf-2338-402d-bd26-b44efc5558e7")
-		(at 237 83.5 90)
+		(at 115.55625 62.06875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D45"
@@ -26141,7 +26141,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "645a89ac-3f95-4f90-a236-2ed918b76c1c")
-		(at 45.24375 126.20625)
+		(at 166.6875 128.5875)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW20"
 			(at 5 7.4 180)
@@ -26914,7 +26914,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "69b4c9ad-f3ea-4e55-b8f6-bc2eafafc321")
-		(at 45.24375 107.15625)
+		(at 223.8375 45.24375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW8"
 			(at 5 7.4 180)
@@ -27687,7 +27687,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "6a5df362-5b12-486b-ab80-48fd3cb3a484")
-		(at 180 100 90)
+		(at 58.55625 121.43125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D27"
@@ -27996,7 +27996,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "6c6cd0e6-da20-4e1b-b12b-b9b10e6c3ea6")
-		(at 58.55 103 90)
+		(at 237.14375 45.85 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D10"
@@ -28305,7 +28305,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "6d232dc4-7f4f-4a53-9394-055b228d2d33")
-		(at 58.05 65 90)
+		(at 255.69375 65 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D54"
@@ -28614,7 +28614,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "6fc0d2c1-7dbf-47df-95cc-c3cdd696abf2")
-		(at 261.9375 50.00625)
+		(at 121.44375 123.825)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW51"
 			(at 5 7.4 180)
@@ -29387,7 +29387,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "6fe0ab66-82fe-4520-b798-ecd3284e02ad")
-		(at 242.8875 69.05625)
+		(at 140.49375 90.4875)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW55"
 			(at 5 7.4 180)
@@ -30160,7 +30160,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "71256e6c-c32c-4744-a7d9-a2827d093079")
-		(at 179.5 62.5 90)
+		(at 134.25625 67.2625 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D53"
@@ -30469,7 +30469,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "725b87f3-260c-4d2f-9d19-c4504cc4d558")
-		(at 218 117.5 90)
+		(at 115.60625 100.83125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D49"
@@ -30778,7 +30778,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "727db923-1cb3-4006-b8c2-1be9139fc2ab")
-		(at 115.55 62.5 90)
+		(at 58.4 83.93125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D23"
@@ -31087,7 +31087,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "72850017-40aa-4601-bdc1-545ecfb6f4a5")
-		(at 38.05 83.5 90)
+		(at 159.49375 104.93125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D18"
@@ -31396,7 +31396,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "73038486-ee59-48c1-a75d-8e37ccbd180f")
-		(at 261.9375 126.20625)
+		(at 185.7375 47.625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW4"
 			(at 5 7.4 180)
@@ -32169,7 +32169,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "732fdb5b-6e79-4d14-a999-62842968fbe9")
-		(at 223.8375 64.29375)
+		(at 166.6875 90.4875)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW16"
 			(at 5 7.4 180)
@@ -32942,12 +32942,12 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "75256986-899c-4922-869a-fa7e2b7073cb")
-		(at 185.7375 85.725)
+		(at 45.24375 88.10625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW15"
 			(at 5 7.4 180)
 			(layer "F.SilkS")
-			(uuid "2dc2405b-2402-467b-b2d2-3c63d3437090")
+			(uuid "ddf0974a-3aa7-46d6-872f-8a2f2f8fa6fd")
 			(effects
 				(font
 					(size 1 1)
@@ -32958,7 +32958,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 180)
 			(layer "F.Fab")
-			(uuid "a4b917e4-08be-46bc-9744-eee593f2cbc5")
+			(uuid "d45e16f1-520a-48c9-82a0-9819ef84630f")
 			(effects
 				(font
 					(size 1 1)
@@ -32970,7 +32970,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7fe2f40b-580c-4f93-8557-ee232793ff42")
+			(uuid "ea948dac-ea3b-4622-85af-72ae29acc2b3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32982,7 +32982,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e7c7ebd2-f9c7-4184-9e62-15a5bf1e4567")
+			(uuid "55565f68-06c9-4409-ab7e-8999407fe84a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33715,7 +33715,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "7679c28f-412d-4f3c-b382-bb86cd753767")
-		(at 115.55 43.5 90)
+		(at 217.94375 98.26875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D42"
@@ -34315,7 +34315,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "792a8444-c64d-48f4-9f79-8dfa004ea371")
-		(at 204.7875 116.68125)
+		(at 102.39375 78.58125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW39"
 			(at 5 7.4 180)
@@ -35088,7 +35088,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "7d2a8001-2e42-4cce-857d-ed6a5e073766")
-		(at 96.55 74.5 90)
+		(at 198.94375 112.6 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D36"
@@ -35397,7 +35397,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "7e9bb696-6e89-43a5-93d0-a52bef42dafd")
-		(at 39.55 65 90)
+		(at 218.14375 117.3875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D44"
@@ -35997,7 +35997,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "8141cb7f-74c5-4ae3-b62d-2a26cf6d7acc")
-		(at 115.55 100.65 90)
+		(at 256.04375 103.03125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D58"
@@ -36306,7 +36306,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "82bc55e9-4978-4149-9c06-1b8de667c6d0")
-		(at 83.34375 121.44375)
+		(at 223.8375 83.34375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW40"
 			(at 5 7.4 180)
@@ -37079,7 +37079,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "84a85d62-92e5-41ca-a459-7ef292a7a5d0")
-		(at 204.7875 59.53125)
+		(at 204.7875 40.48125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW6"
 			(at 5 7.4 180)
@@ -38143,7 +38143,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "85639611-6bb8-4b8b-85f8-cbf715d835e7")
-		(at 179.5 81.5 90)
+		(at 39.00625 83.88125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D15"
@@ -38452,7 +38452,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "86a1682c-32e0-414c-b9f3-2fa29fc5acc7")
-		(at 39.05 103 90)
+		(at 217.64375 41.0875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D8"
@@ -39052,7 +39052,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "888bafc3-7aac-4c5c-bdd6-88cc48d26cdc")
-		(at 218 98 90)
+		(at 115.60625 81.33125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D47"
@@ -39361,7 +39361,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "8a5ae34a-35e0-47be-bfe1-53a74919de50")
-		(at 102.39375 59.53125)
+		(at 45.24375 69.05625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW13"
 			(at 5 7.4 180)
@@ -40134,7 +40134,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "8a9171a0-7bbc-4d96-b565-e1348ca5c1cb")
-		(at 121.44375 85.725)
+		(at 242.8875 69.05625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW46"
 			(at 5 7.4 180)
@@ -40907,7 +40907,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "8b9e61ed-9f03-4ee5-96c1-465dc7cd7e15")
-		(at 134.55 86 90)
+		(at 255.99375 83.61875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D56"
@@ -41216,7 +41216,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "90bffc63-5fd1-4501-8278-7f6f93e126e8")
-		(at 77.55 117 90)
+		(at 218.04375 78.9 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D40"
@@ -41525,7 +41525,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "919aa2c8-f164-44c3-9a46-b136ddbff042")
-		(at 185.7375 47.625)
+		(at 140.49375 52.3875)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW11"
 			(at 5 7.4 180)
@@ -42298,7 +42298,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "92f78b40-c0ec-465f-9d37-81789dfeb8d8")
-		(at 261.9375 69.05625)
+		(at 204.7875 98.26875)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW34"
 			(at 5 7.4 180)
@@ -43071,7 +43071,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "94ba8596-7685-4a66-a837-91595b4ebabe")
-		(at 45.24375 88.10625)
+		(at 166.6875 109.5375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW18"
 			(at 5 7.4 180)
@@ -43844,7 +43844,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "9648fd7e-7e82-4480-a7a9-4dc1a56699da")
-		(at 45.24375 69.05625)
+		(at 223.8375 121.44375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW44"
 			(at 5 7.4 180)
@@ -44617,7 +44617,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "98072836-e434-4bfc-b340-0662aff22838")
-		(at 185.7375 66.675)
+		(at 140.49375 71.4375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW53"
 			(at 5 7.4 180)
@@ -45390,7 +45390,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "99e0a242-659b-4ad8-a969-3edd8bcf0800")
-		(at 121.44375 123.825)
+		(at 261.9375 126.20625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW60"
 			(at 5 7.4 180)
@@ -46454,7 +46454,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "9c158fb7-f9e1-49fb-81fa-85c40b974583")
-		(at 242.8875 107.15625)
+		(at 140.49375 109.5375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW57"
 			(at 5 7.4 180)
@@ -47227,7 +47227,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "9d630ca4-387f-4607-a512-e89edcba52d6")
-		(at 39.05 122 90)
+		(at 160.49375 124.38125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D20"
@@ -47536,7 +47536,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "9d65cccf-a009-4d8d-9ec5-d6f96c03a41a")
-		(at 140.49375 71.4375)
+		(at 83.34375 102.39375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW33"
 			(at 5 7.4 180)
@@ -48309,7 +48309,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "9eb41497-784d-46b0-a6d5-9483e7a5452e")
-		(at 237 103 90)
+		(at 134.60625 105.38125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D57"
@@ -48618,7 +48618,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "a1018066-4b88-4da8-b377-eca8ae1c71af")
-		(at 198.5 74.5 90)
+		(at 58.00625 103.075 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D25"
@@ -48927,7 +48927,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "a191cc85-f5ee-4cff-bf49-9f0427c732db")
-		(at 140.49375 128.5875)
+		(at 121.44375 47.625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW9"
 			(at 5 7.4 180)
@@ -49700,7 +49700,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "a60a2378-8170-4e5f-8f93-c180d7497803")
-		(at 83.34375 45.24375)
+		(at 185.7375 66.675)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW22"
 			(at 5 7.4 180)
@@ -50473,7 +50473,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "ac34e46d-bcbd-44c0-8dd2-0598cc4202a0")
-		(at 223.8375 102.39375)
+		(at 121.44375 85.725)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW47"
 			(at 5 7.4 180)
@@ -51246,7 +51246,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "ad788987-d8aa-4807-a456-55be87a45b01")
-		(at 140.49375 52.3875)
+		(at 242.8875 126.20625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW52"
 			(at 5 7.4 180)
@@ -52019,7 +52019,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "b84d2766-2971-43d4-bb3c-a0a7862d0954")
-		(at 102.39375 78.58125)
+		(at 204.7875 116.68125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW36"
 			(at 5 7.4 180)
@@ -52792,7 +52792,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "bdb6a510-cede-461b-8702-e0ff69622b32")
-		(at 58.55 122 90)
+		(at 199.04375 55.325 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D30"
@@ -53101,12 +53101,12 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "bfb9b5ad-2e35-40b5-89a0-8d73a99fd183")
-		(at 166.6875 128.5875)
+		(at 83.34375 64.29375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW29"
 			(at 5 7.4 180)
 			(layer "F.SilkS")
-			(uuid "afffe815-0f19-41b5-9468-2fe5e978bfff")
+			(uuid "f7ce823c-46af-44b5-a169-440a5b4bb611")
 			(effects
 				(font
 					(size 1 1)
@@ -53117,7 +53117,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 180)
 			(layer "F.Fab")
-			(uuid "343d66e2-6449-4d86-ba8c-0de4dfe1da6b")
+			(uuid "462ef5f0-f02c-43ae-935f-f20c6a421fe0")
 			(effects
 				(font
 					(size 1 1)
@@ -53129,7 +53129,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4d6def4-f293-44b1-b40f-be7f72cafb3e")
+			(uuid "02e40763-2132-4991-a3c8-a523e36d898b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53141,7 +53141,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "65267f23-8ab5-4259-a647-50d8c925f2ae")
+			(uuid "4660090f-500e-4a4a-ab8e-29bb054b010a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53874,7 +53874,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "c0987f51-ae7c-407f-bd5a-5858ef420168")
-		(at 161 124.5 90)
+		(at 39.55625 122.11875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D19"
@@ -54183,7 +54183,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "c0dc4c09-bf58-4bec-a4db-2490870377a3")
-		(at 223.8375 121.44375)
+		(at 121.44375 104.775)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW49"
 			(at 5 7.4 180)
@@ -55247,7 +55247,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "c2ba6448-6d34-4e97-93b6-04df009537cb")
-		(at 96.55 55.5 90)
+		(at 39.4 65.025 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D13"
@@ -55847,7 +55847,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "c6f2a483-bb75-488e-9d96-637b5bf5cc65")
-		(at 102.39375 116.68125)
+		(at 242.8875 107.15625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW50"
 			(at 5 7.4 180)
@@ -56620,7 +56620,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "c787c41c-4d80-445e-8ff9-2ab2655b55c5")
-		(at 236.5 46 90)
+		(at 96.00625 93.625 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D41"
@@ -56929,7 +56929,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "cae7cbbc-8e5d-404e-add5-bb449f8b1b64")
-		(at 242.8875 50.00625)
+		(at 102.39375 97.63125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW41"
 			(at 5 7.4 180)
@@ -58011,7 +58011,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "d2bfb361-7831-41ba-b02b-ef4b1632f405")
-		(at 242.8875 88.10625)
+		(at 121.44375 66.675)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW45"
 			(at 5 7.4 180)
@@ -58784,7 +58784,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "d2f917b7-28b3-4898-9b43-ea28874606de")
-		(at 64.29375 107.15625)
+		(at 242.8875 50.00625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW10"
 			(at 5 7.4 180)
@@ -59557,7 +59557,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "d42c2312-c5ab-441c-b847-2875fdfb02d4")
-		(at 218 41 90)
+		(at 77.50625 79.1 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D31"
@@ -59866,13 +59866,13 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "d48f6aca-8a32-4500-974d-498789b66641")
-		(at 135.05 124.5 90)
+		(at 116 43.5375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D9"
 			(at 0 -2 90)
 			(layer "F.SilkS")
-			(uuid "2cb74e9f-7510-4b5b-95be-9d92a156d57e")
+			(uuid "f14cbcec-e1e8-4459-87dd-3a80b88f46c6")
 			(effects
 				(font
 					(size 1 1)
@@ -59883,7 +59883,7 @@
 		(property "Value" "D"
 			(at 0 2.1 90)
 			(layer "F.Fab")
-			(uuid "5187f3b3-2bab-480f-aa1b-551b158204bf")
+			(uuid "c828ebd3-c00a-4935-88c8-a2bba976edba")
 			(effects
 				(font
 					(size 1 1)
@@ -59896,7 +59896,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4dac375b-68a9-4b63-92a0-4eea223449d5")
+			(uuid "5c2f8f67-19b8-420a-9932-f0c23e76fc3e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59909,7 +59909,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "09436541-1168-4651-8d99-a329ba23c22d")
+			(uuid "64dd9135-0ed5-4afc-9b42-933245d0fbd3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60175,7 +60175,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "d4e4772c-0a72-48cc-8075-2209ff667051")
-		(at 185.7375 123.825)
+		(at 45.24375 126.20625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW19"
 			(at 5 7.4 180)
@@ -60948,7 +60948,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "d553b253-83d2-46b2-9d48-821234eba558")
-		(at 121.44375 47.625)
+		(at 223.8375 102.39375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW42"
 			(at 5 7.4 180)
@@ -61721,7 +61721,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "d7e307fc-1b7f-4eb6-a7f6-5ac6a24b7614")
-		(at 64.29375 126.20625)
+		(at 204.7875 59.53125)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW30"
 			(at 5 7.4 180)
@@ -62494,7 +62494,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "db3f2ce1-aff3-446b-a508-6d63ff70d48e")
-		(at 256 84 90)
+		(at 179.8 81.61875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D24"
@@ -62803,7 +62803,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "db7fce52-e028-4389-807b-57be764bbf3e")
-		(at 198.5 55.15 90)
+		(at 198.5 36.1 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D6"
@@ -63112,7 +63112,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "dfcd51ea-7c44-42ca-9193-16788845231a")
-		(at 268.5 64.35 90)
+		(at 198.65625 93.36875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D34"
@@ -63421,7 +63421,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "e150d588-4753-43f9-9769-ea029c763dc7")
-		(at 166.6875 90.4875)
+		(at 83.34375 45.24375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW5"
 			(at 5 7.4 180)
@@ -64194,7 +64194,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "e264bcc5-0b6a-4478-9951-e4ac3c7cc527")
-		(at 83.34375 64.29375)
+		(at 64.29375 50.00625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW3"
 			(at 5 7.4 180)
@@ -64967,7 +64967,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "e9fe00e1-c4ff-4807-8d09-ffc2d67aa7c4")
-		(at 64.29375 50.00625)
+		(at 261.9375 50.00625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW12"
 			(at 5 7.4 180)
@@ -65740,7 +65740,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "eb8af1ac-1a30-4922-a979-4d39e90e8f0f")
-		(at 198.5 36.5 90)
+		(at 58.00625 65.075 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D21"
@@ -66049,7 +66049,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "eca2bc11-0dbe-4e6b-b805-47e3014ff287")
-		(at 223.8375 45.24375)
+		(at 83.34375 83.34375)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW31"
 			(at 5 7.4 180)
@@ -66822,7 +66822,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "ed6f842a-586c-4387-8a2a-2458a22409a7")
-		(at 58.05 46 90)
+		(at 71.4375 145.9875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D12"
@@ -67440,7 +67440,7 @@
 	(footprint "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 		(layer "F.Cu")
 		(uuid "efeeb120-880d-4f69-b66b-355e509aa280")
-		(at 185.7375 104.775)
+		(at 64.29375 126.20625)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW27"
 			(at 5 7.4 180)
@@ -68213,7 +68213,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "f144dd69-8492-4c5e-9337-9f56c8d2c170")
-		(at 236.5 65 90)
+		(at 134.10625 86.43125 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D55"
@@ -69225,7 +69225,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "f9da3716-81bc-4b2d-8bc5-17ea4e942459")
-		(at 58.55 84 90)
+		(at 179.99375 119.71875 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D28"
@@ -71093,22 +71093,6 @@
 		(uuid "d9602fe5-8b54-4a48-abd9-9d59b321f9ab")
 	)
 	(segment
-		(start 129.68875 70.425)
-		(end 93.97 70.425)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 73)
-		(uuid "bc59ef8b-d8b1-4ae2-bd06-63f1ac3e7b25")
-	)
-	(segment
-		(start 93.97 70.425)
-		(end 91.58875 68.04375)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 73)
-		(uuid "de3d40df-2d3e-4593-a0fe-5999cfed2d3b")
-	)
-	(segment
 		(start 91.58875 87.09375)
 		(end 90.263751 87.09375)
 		(width 0.2)
@@ -71445,20 +71429,20 @@
 		(uuid "188c685b-d634-42f1-b14c-388014fc6f0e")
 	)
 	(segment
-		(start 270.1825 53.75625)
-		(end 272.74375 53.75625)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 79)
-		(uuid "2d1bcab9-4394-4125-bc4f-96bf5285fa5c")
-	)
-	(segment
 		(start 252.45775 31.904)
 		(end 254.13375 33.58)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 79)
 		(uuid "7bd33052-c147-4a71-9d4a-519e8b3ed246")
+	)
+	(segment
+		(start 129.68875 70.425)
+		(end 93.97 70.425)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 79)
+		(uuid "bc59ef8b-d8b1-4ae2-bd06-63f1ac3e7b25")
 	)
 	(segment
 		(start 253.718192 18.7805)
@@ -71469,12 +71453,12 @@
 		(uuid "d108850c-e249-4989-b25c-ebfee8bb7ef0")
 	)
 	(segment
-		(start 272.74375 53.75625)
-		(end 276.5 50)
+		(start 93.97 70.425)
+		(end 91.58875 68.04375)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 79)
-		(uuid "fd5c3d64-f327-4d7c-aba5-8d5cb744ef7e")
+		(uuid "de3d40df-2d3e-4593-a0fe-5999cfed2d3b")
 	)
 	(segment
 		(start 235 74)
@@ -71645,6 +71629,14 @@
 		(uuid "22662cf6-2345-4c79-94e2-952af8b6b560")
 	)
 	(segment
+		(start 270.1825 53.75625)
+		(end 272.74375 53.75625)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 82)
+		(uuid "2d1bcab9-4394-4125-bc4f-96bf5285fa5c")
+	)
+	(segment
 		(start 130 135)
 		(end 130 134.5)
 		(width 0.2)
@@ -71771,6 +71763,14 @@
 		(layer "F.Cu")
 		(net 82)
 		(uuid "d26ec4ec-d51c-43a7-986f-0614e576bda0")
+	)
+	(segment
+		(start 272.74375 53.75625)
+		(end 276.5 50)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 82)
+		(uuid "fd5c3d64-f327-4d7c-aba5-8d5cb744ef7e")
 	)
 	(via
 		(at 54.5 38.5)
