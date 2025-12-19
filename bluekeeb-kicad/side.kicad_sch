@@ -3205,6 +3205,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 102.87 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1339860d-9172-41d9-a15a-b6756fb3e8ed")
+		(property "Reference" "H20"
+			(at 105.41 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 105.41 179.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 102.87 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 102.87 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 102.87 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "bluekeeb"
+				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/12ef109c-a2f1-40c4-8500-95466df51b75"
+					(reference "H21")
+					(unit 1)
+				)
+				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/727cb513-7415-499b-80c9-83fd548ec377"
+					(reference "H20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 255.27 109.22 0)
 		(unit 1)
@@ -4534,6 +4602,74 @@
 				)
 				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/727cb513-7415-499b-80c9-83fd548ec377"
 					(reference "SW59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 124.46 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "45560099-1024-4de4-b150-5ee1d85a8a81")
+		(property "Reference" "H18"
+			(at 127 175.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 127 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 124.46 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 124.46 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "bluekeeb"
+				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/12ef109c-a2f1-40c4-8500-95466df51b75"
+					(reference "H19")
+					(unit 1)
+				)
+				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/727cb513-7415-499b-80c9-83fd548ec377"
+					(reference "H18")
 					(unit 1)
 				)
 			)
@@ -6290,6 +6426,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 123.19 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97949ce6-7856-4e38-ad95-6be88daa7e0d")
+		(property "Reference" "H16"
+			(at 125.73 160.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 125.73 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 123.19 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 123.19 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 123.19 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "bluekeeb"
+				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/12ef109c-a2f1-40c4-8500-95466df51b75"
+					(reference "H17")
+					(unit 1)
+				)
+				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/727cb513-7415-499b-80c9-83fd548ec377"
+					(reference "H16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 167.64 95.25 0)
 		(unit 1)
@@ -7035,6 +7239,74 @@
 				)
 				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/727cb513-7415-499b-80c9-83fd548ec377"
 					(reference "D25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 160.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "caf7f826-b94e-43ac-ac28-c9d3e53bd426")
+		(property "Reference" "H14"
+			(at 104.14 158.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 104.14 161.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 101.6 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/12ef109c-a2f1-40c4-8500-95466df51b75"
+					(reference "H15")
+					(unit 1)
+				)
+				(path "/9c7c3d7f-df07-44e3-9769-a5f86c49873c/727cb513-7415-499b-80c9-83fd548ec377"
+					(reference "H14")
 					(unit 1)
 				)
 			)
