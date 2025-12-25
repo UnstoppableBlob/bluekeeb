@@ -1,0 +1,9 @@
+,,,,,shipping on pcb causes it to jump in price so much. Shipping costs $17.81,
+Item,Description,Quantity,Unit Price,Total Price,Total (with tax & shipping incl.),Running Total
+PCB,PCB from jlcpcb,5 (jlcpcb minimum),$16.30,$16.30,$36.41,$36.41
+Kailh Choc v1 (70pcs),Low profile switches,1,$18.25,$18.25,$20.21,$56.62
+Hot Swaps (70pcs),Sockets for Choc v1s,1,$9.99,$9.99,(amazon),$56.62
+3.7V LiPo batteries (2-pack),1000mah Battery,1,$12.99,$12.99,(amazon),$56.62
+1N4148W (100pcs),Diodes,1,$9.99,$9.99,(amazon),$56.62
+EC11 (6pcs),Rotary Encoders,1,$8.88,$8.88,$44.13 (total for amazon),$100.75
+Seeed Studio XIAO nRF52840,MCU,2,$9.99,$19.98,$22.39,$123.14
