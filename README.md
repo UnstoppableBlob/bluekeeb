@@ -12,3 +12,9 @@ encoders that will control the brightness, and the volume seperately. The whole 
 
 ## Schematic
 <img width="1303" height="838" alt="Screenshot 2025-12-18 115051" src="https://github.com/user-attachments/assets/4250d762-e3f9-4b6a-85b5-a5ffbfad4e0c" />
+
+## Case + PCB
+<img width="1424" height="939" alt="image" src="https://github.com/user-attachments/assets/13252680-3234-4b66-b35c-358ec911e8dd" />
+
+
+I made the case 1 full case because I'm not 100% certain on what case I want, so I'm thinking of making this on my 3d printer at home, and I'll just change it depending on what I feel like doing after fully assembling the PCB.
