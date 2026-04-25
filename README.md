@@ -1,8 +1,14 @@
 # Bluekeeb
 
-A custom, low-profile mechanical keyboard that doesn't require any cable management, no hassles with batteries, or any portability problems. I plan to use ZMK for firmware once I get the pcb assembled, and I will update this README when I 
-make it. I'm planning to make the case in Shapr3D when I get it as well, but I already started some of it. Instead of having an extra row of keys for function keys, which will sacrifice portability, I decided to instead have small rotary
-encoders that will control the brightness, and the volume seperately. The whole keyboard is going to be made using surface mount technology, and the PCB was made in kicad. Here are images of the 
+A custom made low-profile mechanical keyboard that uses a XIAO seeed module as the controller, a master-slave implementation of the firmware, that uses ZMK. Hassles with batteries can be avoided, due to the battery management and charging systems of the XIAO module in use. I have made the decision to remove the row of function keys, and replace them with a rotary encoder on the right side that controls music volume, and on the left side, a rotary encoder that controls the brightness of your display.
+
+## How I made this
+
+I made this using the OPL Kicad Library, running Kicad 8.0 on Windows 11. I have compiled it all to a manufacturable gerbers.zip file containing all the important info. I have a rotary encoder, which I'm planning to use a standard, 11 millimeter ec11 rotary encoder. Along with that, I'm going to use Choc v1 Kailh key switches, paired with custom 3d-printed keycaps. 
+
+## Why did I make this
+
+I made it because I was bored, and then I ended up spending a lot of time on it I guess? Also to qualify for stasis.hackclub.com's hackathon in Austin, TX.
 
 ## Assembled PCB (without the case and keycaps)
 <img width="1198" height="742" alt="Screenshot 2025-12-18 115908" src="https://github.com/user-attachments/assets/c35d7380-87c0-48a3-a420-20a87573f8b0" />
@@ -13,8 +19,8 @@ encoders that will control the brightness, and the volume seperately. The whole 
 ## Schematic
 <img width="1303" height="838" alt="Screenshot 2025-12-18 115051" src="https://github.com/user-attachments/assets/4250d762-e3f9-4b6a-85b5-a5ffbfad4e0c" />
 
-## Case + PCB
+## Case + PCB (older version)
 <img width="1424" height="939" alt="image" src="https://github.com/user-attachments/assets/13252680-3234-4b66-b35c-358ec911e8dd" />
 
 
-I made the case 1 full case because I'm not 100% certain on what case I want, so I'm thinking of making this on my 3d printer at home, and I'll just change it depending on what I feel like doing after fully assembling the PCB.
+The newer case (Bluekeeb case.step, not bluekeeb.step) is a newer version of the case that I am going to print out myself, as well as ordering all the components myself. The cases has a slot open for the usb c cable connection coming from the XIAO module.
