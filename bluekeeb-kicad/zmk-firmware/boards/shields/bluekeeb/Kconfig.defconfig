@@ -1,0 +1,22 @@
+if SHIELD_MY_SPLIT_KB_LEFT || SHIELD_MY_SPLIT_KB_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "My Split KB"
+
+config ZMK_SPLIT
+    default y
+
+config EC11
+    default y
+
+config EC11_TRIGGER_GLOBAL_THREAD
+    default y
+
+if SHIELD_MY_SPLIT_KB_LEFT
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif   
+
+endif   
