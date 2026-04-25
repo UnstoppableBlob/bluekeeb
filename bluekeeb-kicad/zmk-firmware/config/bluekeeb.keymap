@@ -17,7 +17,7 @@
                 &kp LSHFT  &kp Z    &kp X    &kp C    &kp V    &kp B       &kp N    &kp M    &kp COMMA &kp DOT  &kp SLASH &kp RSHFT
                 &mo 1      &kp LALT &kp LGUI &kp LBKT &kp SPACE &kp RET   &kp RET  &kp SPACE &kp RBKT &kp RGUI &kp RALT  &mo 2
             >;
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp C_BRI_UP C_BRI_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         lower_layer {
@@ -29,7 +29,7 @@
                 &trans     &trans   &trans   &trans   &trans   &trans      &trans   &trans   &trans    &trans   &trans    &trans
                 &trans     &trans   &trans   &trans   &trans   &trans      &trans   &trans   &trans    &trans   &trans    &trans
             >;
-            sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp PG_UP PG_DN>;
+            sensor-bindings = <&inc_dec_kp C_BRI_UP C_BRI_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         raise_layer {
@@ -41,7 +41,7 @@
                 &trans     &trans       &trans        &trans        &trans        &trans          &trans &trans &trans &trans &trans  &trans
                 &trans     &trans       &trans        &trans        &trans        &trans          &trans &trans &trans &trans &trans  &trans
             >;
-            sensor-bindings = <&inc_dec_kp C_BRI_UP C_BRI_DN &inc_dec_kp C_BRI_UP C_BRI_DN>;
+            sensor-bindings = <&inc_dec_kp C_BRI_UP C_BRI_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
     };
 };
