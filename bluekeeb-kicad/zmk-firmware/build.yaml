@@ -1,5 +1,0 @@
-include:
-  - board: seeeduino_xiao_ble
-    shield: bluekeeb_left
-  - board: seeeduino_xiao_ble
-    shield: bluekeeb_right

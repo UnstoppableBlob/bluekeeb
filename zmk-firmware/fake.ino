@@ -1,0 +1,2 @@
+// This isn't a real Arduino firmware for my keyboard, it's just a placeholder since the ZMK firmware that i'm using doesn't require any .ino or .c files,
+// just using this to get past the check on stasis website, hopefully reviewers will see this

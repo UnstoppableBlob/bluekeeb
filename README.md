@@ -19,6 +19,11 @@ I made it because I was bored, and then I ended up spending a lot of time on it 
 ## Schematic
 <img width="1303" height="838" alt="Screenshot 2025-12-18 115051" src="https://github.com/user-attachments/assets/4250d762-e3f9-4b6a-85b5-a5ffbfad4e0c" />
 
+## Case + PCB + electronics
+
+Actually, while I was using freecad, after I had the whole thing set up, It didn't let me export or import files, even though I was trying to import/export supported file formats. I was only able to get the case, rotary encoders, and the PCB to show up on the render. 
+![alt text](image.png)
+
 ## Case + PCB (older version)
 <img width="1424" height="939" alt="image" src="https://github.com/user-attachments/assets/13252680-3234-4b66-b35c-358ec911e8dd" />
 
